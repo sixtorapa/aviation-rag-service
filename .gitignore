@@ -1,6 +1,5 @@
 @"
 .env
-data/
 vector_store/
 __pycache__/
 services/__pycache__/
